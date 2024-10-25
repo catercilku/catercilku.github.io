@@ -36,7 +36,7 @@ Dan masih banyak lagi.
 
 ## Dampak pada mahasiswa
 
-Bisa kita rasakan bagaimana korelasi antara tingginya biaya yang dikeluakan tidak diimbangi dengan peningkatan fasilitas atau kualitas akademik yang baik menjadikan kami mahaiswa merasakan ketidakpuasan. Kami para mahasiswa merasa kalau investasi waktu dan uang selama ini terasa tidak sepadan. Istilahnya berkorban keringat dan air mata demi bisa berkuliah, ingin merasakan bangku di pendidikan tinggi dengan harapan setelah tuntas nanti menjadi manusia ber-value tinggi di masyarakat nanti.
+Bisa kita rasakan bagaimana korelasi antara tingginya biaya yang dikeluarkan tidak diimbangi dengan peningkatan fasilitas atau kualitas akademik yang baik menjadikan kami mahaiswa merasakan ketidakpuasan. Kami para mahasiswa merasa kalau investasi waktu dan uang selama ini terasa tidak sepadan. Istilahnya berkorban keringat dan air mata demi bisa berkuliah, ingin merasakan bangku di pendidikan tinggi dengan harapan setelah tuntas nanti menjadi manusia ber-value tinggi di masyarakat nanti.
 
 Ada orang tua di luar sana yang relakan gajinya yang minim untuk kebutuhan sehari-hari disisihkan demi anaknya bisa kuliah.
 
