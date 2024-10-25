@@ -1,6 +1,6 @@
 ---
 title: "Mari kuliah disini. Kami butuh uangmu."
-description: "Sifat yang ada pada manusia ketika dihadapkan dua keadaan."
+description: "Ketika kampus hanya beroriantasi pada uang."
 publishDate: "25 Oct 2024"
 updatedDate: "25 Oct 2024"
 tags: ["kuliah", "universitas", "spp", "ukt", "biaya"]
