@@ -36,7 +36,7 @@ Dan masih banyak lagi.
 
 ## Dampak pada mahasiswa
 
-Bisa kita rasakan bagaimana korelasi antara tingginya biaya yang dikeluakan tidak diimbangi dengan peningkatan fasilitas atau kualitas akademik yang baik. Membuat kami para mahasiswa merasa kalau investasi waktu dan uang selama ini terasa tidak sepadan. Istilahnya berkorban keringat dan air mata demi bisa berkuliah, ingin merasakan bangku di pendidikan tinggi dengan harapan setelah tuntas nanti menjadi manusia ber-value tinggi di masyarakat nanti.
+Bisa kita rasakan bagaimana korelasi antara tingginya biaya yang dikeluakan tidak diimbangi dengan peningkatan fasilitas atau kualitas akademik yang baik menjadikan kami mahaiswa merasakan ketidakpuasan. Kami para mahasiswa merasa kalau investasi waktu dan uang selama ini terasa tidak sepadan. Istilahnya berkorban keringat dan air mata demi bisa berkuliah, ingin merasakan bangku di pendidikan tinggi dengan harapan setelah tuntas nanti menjadi manusia ber-value tinggi di masyarakat nanti.
 
 Ada orang tua di luar sana yang relakan gajinya yang minim untuk kebutuhan sehari-hari disisihkan demi anaknya bisa kuliah.
 
@@ -98,7 +98,7 @@ Pengalaman belajar di kampus seharusnya bukan sekadar "transaksi" finansial, mel
 
 Kritik ini bukan sekadar keluhan, tetapi ajakan bagi institusi pendidikan untuk kembali ke esensi pendidikan yang sebenarnya. Kampus diharapkan tidak hanya fokus pada keuntungan, melainkan benar-benar menciptakan lingkungan yang membentuk mahasiswa menjadi individu yang berpengetahuan, berkarakter, dan siap menghadapi dunia kerja.
 
-Melalui peningkatan fasilitas, kurikulum yang labih baik, dan dukungan karier yang nyata, diharapkan mahasiswa bisa merasa bahwa pengalaman pendidikan yang mereka peroleh memang sepadan dengan pengorbanan finansial yang diberikan. Mari bersama-sama, baik institusi maupun mahasiswa, menciptakan sebuah sistem pendidikan yang layak dibanggakan, yang bisa mempersiapkan generasi penerus dengan baik untuk membangun masa depan yang lebih baik.
+Melalui peningkatan fasilitas, kurikulum yang lebih baik, dan dukungan karier yang nyata, diharapkan mahasiswa bisa merasa bahwa pengalaman pendidikan yang mereka peroleh memang sepadan dengan pengorbanan finansial yang diberikan. Mari bersama-sama, baik institusi maupun mahasiswa, menciptakan sebuah sistem pendidikan yang layak dibanggakan, yang bisa mempersiapkan generasi penerus dengan baik untuk membangun masa depan yang lebih baik.
 
 ## Akhiran
 
