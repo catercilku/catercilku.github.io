@@ -1,6 +1,6 @@
 ---
 title: "Mari kuliah disini. Kami butuh uangmu."
-description: "Ketika kampus hanya beroriantasi pada uang."
+description: "Ketika kampus hanya beroriantasi pada uang, tapi kualitas berdiri ditempat."
 publishDate: "25 Oct 2024"
 updatedDate: "25 Oct 2024"
 tags: ["kuliah", "universitas", "spp", "ukt", "biaya"]
