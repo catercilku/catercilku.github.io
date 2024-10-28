@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Catatan Terpencilku",
+	"short_name": "Catercilku",
+	"description": "Blog berisi catatan-catatan terpencil harianku.",
 	"icons": [
 		{
 			"src": "/192x192.png",
