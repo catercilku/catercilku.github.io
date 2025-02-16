@@ -2,7 +2,7 @@
 title: "Parlemen atau Soviet: Gagasan pikiran awal Tan Malaka"
 description: "Parlemen atau Soviet adalah salah satu karya awal dari Tan Malaka, yang menjadi dasar pemikiran beliau."
 publishDate: "15 Jan 2025"
-updatedDate: "15 Jan 2025"
+updatedDate: "16 Jan 2025"
 coverImage:
   src: "./imgs/Tan-Malaka.jpg"
   alt: "Tan Malaka dengan kemeja"
@@ -13,11 +13,11 @@ tags: ["tan malaka", "sosialisme", "komunisme", "kiri", "soviet", "kapitalisme"]
 
 Entah awalnya bagaimana aku sendiri bisa sampai "dipertemukan" dengan Tan Malaka. Sejak kecil, aku telah memiliki ketertarikan mendalam terhadap nasionalisme dan sejarah berdirinya tanah air ini. Mungkin inilah yang secara tidak langsung mempertemukanku dengan pemikiran Tan Malaka.
 
-Aku sendiri masih teringat betul masa-masa di sekolah dasar, ketika setiap ulangan pelajaran PKn (sekarang PPKn) selalu kutunggu dengan penuh semangat. Dan nilai hasil dari ulangan tersebut memang selalu memuaskan dan membuat perasaanku cukup bangga pada waktu itu. Mungkin, nilai PKn itu juga yang menjadi salah satu pendorong kenapa aku selalu berada di 3 besar pada saat di bangku Sekolah Dasar.
+Aku sendiri masih teringat betul masa-masa di Sekolah Dasar, ketika setiap ulangan pelajaran PKn (sekarang PPKn) selalu kutunggu dengan penuh semangat. Dan nilai hasil dari ulangan tersebut memang selalu memuaskan dan membuat perasaanku cukup bangga pada waktu itu. Mungkin, nilai PKn itu juga yang menjadi salah satu pendorong kenapa aku selalu berada di 3 besar pada saat di bangku Sekolah Dasar.
 
 Tak hanya itu, ada sebuah program televisi di TvOne yang selalu meninggalkan kesan mendalam di ingatanku. Program tersebut bernama Riwadjatmoe Doeloe. Selalu kutonton setiap kali tayang di TV. Sosok Anto Djadoel, dengan setelan jas putih ala Sukarno, kacamata bundar yang mengingatkanku pada Harry Potter, dan topi khasnya (topi demang), berhasil menyuguhkan nuansa tema sejarah era zaman kolonialisme yang hidup kembali. Dengan gaya penyampaian yang khas, Anto mengayuh sepeda onthelnya dari satu situs bersejarah ke situs lainnya, diselingi logat Jawa-nya yang medok dan kamera jadul yang menggantung di lehernya, ia membawa penonton menyelami cerita-cerita perjuangan masa lalu yang sarat akan makna.
 
-Program inilah yang turut mengasah pemahamanku tentang sejarah, terutama sebagai pendukung pembelajaran PKn di masa kecil. Di saat itu, materi sejarah mendominasi pelajaran PKn di SD, sedangkan di jenjang yang lebih tinggi seperti SMP keatas, pendalaman mengenai undang-undang dan aspek lainnya baru mulai dibahas.
+Program inilah yang turut mengasah pemahamanku tentang sejarah, terutama sebagai pendukung pembelajaran PKn di masa kecil. Di saat itu, materi sejarah mendominasi pelajaran PKn di Sekolah Dasar, sedangkan di jenjang yang lebih tinggi seperti SMP keatas, pendalaman mengenai undang-undang dan aspek lainnya baru mulai dibahas.
 
 Semoga saja sekarang ini ada kembali program-program serupa yang tidak hanya mengedukasi tetapi yang juga bisa membakar semangat kecintaan terhadap tanah air.
 
@@ -35,9 +35,9 @@ Tan Malaka yang nama aslinya adalah Ibrahim atau nama lengkapnya Ibrahim gelar D
 
 Di sana, di tengah suasana Eropa yang dingin dan berbeda jauh dari kampung halamannya, benak Tan Malaka mulai digerakkan oleh pemikiran revolusioner. Di sinilah ia mulai merasakan getaran perubahan, dari ide-ide Marxisme hingga inspirasi revolusi yang terus menggelora dalam dirinya.
 
-Setelah kembali ke tanah air, Tan Malaka tak mau tinggal diam. Ia memilih untuk terjun langsung ke dunia pengajaran, jurnalisme, dan aktivisme. Dengan semangat yang membara, Tan Malaka menggunakan pena dan pengetahuannya untuk menantang tatanan kolonial yang menindas pada saat itu. Gaya kepemimpinannya yang dikatakan radikal dan keberaniannya dalam menyuarakan kebenaran membuat namanya melekat sebagai figur yang selalu mengusik status quo. Bayangkan saja oleh kita, di tengah situasi yang penuh tekanan, ia tetap berusaha mengobarkan bara perlawanan, sebuah sikap yang kadang buat kita teringat
+Setelah kembali ke tanah air, Tan Malaka tak mau tinggal diam. Ia memilih untuk terjun langsung ke dunia pengajaran, jurnalisme, dan aktivisme. Dengan semangat yang membara, Tan Malaka menggunakan pena dan pengetahuannya untuk menantang tatanan kolonial yang menindas pada saat itu. Gaya kepemimpinannya yang dikatakan radikal dan keberaniannya dalam menyuarakan kebenaran membuat namanya melekat sebagai figur yang selalu mengusik status quo. Bayangkan saja oleh kita, di tengah situasi yang penuh tekanan, ia tetap berusaha mengobarkan bara perlawanan, sebuah sikap yang kadang buat kita teringat,
 
-“Kapan kita juga bisa seberani Tan Malaka?”
+“Kapan kita juga bisa seberani Tan Malaka.”
 
 Kehidupan tidak selamanya selalu mulus, perjalanan Tan Malaka juga pun penuh dengan liku dikarenakan semangat perlawanan terhadap kolonialisme di Tanah Airnya. Ia sempat terpaksa mengasingkan diri ke Eropa dan Asia, menggunakan berbagai nama samaran baru dan menghadapi kenyataan pahit di perantauan. Di tengah kesendirian dan kerasnya hidup di luar negeri, Tan Malaka terus mengasah pemikiran kritisnya. Ia menulis dan merenung tentang bagaimana revolusi bisa jadi jalan untuk mewujudkan perubahan bagi tanah airnya, meskipun kadang ide-idenya terlihat paradoks. Di masa-masa sulit itu, ia mempertanyakan segalanya, termasuk apakah revolusi adalah satu-satunya jawaban, atau mungkinkah ada cara lain untuk mencapai keadilan?
 
@@ -700,7 +700,7 @@ Baginya, persiapan itu tidak bisa menunggu sampai esok. Pemuda harus membangun s
 
 Tan Malaka tahu bahwa perubahan besar butuh keberanian, bukan sekadar doa. Ia mendesak pemuda untuk tidak takut dicap radikal atau dicurigai penguasa. Karena jika kita pasrah, niscaya Hindia kembali menjadi ajang perebutan modal asing. Sebaliknya, jika kita siap, maka hancurnya kapitalisme justru membuka jalan bagi kemerdekaan sejati.
 
-## Rekap dan Penekanan
+## Sedikit Rekap dan Penekanan
 
 Tunai sudah pembahasan mengenai buku Parlemen atau Soviet ini. Tulisan kali ini pada intinya mengajak kita untuk menyelami perjalanan pemikiran dari Tan Malaka, melalui salah satu karya tulisnya tersebut.
 
@@ -708,15 +708,29 @@ Dari mulai ulasan mengenai sistem parlemen yang kerap hanya menjadi topeng retor
 
 Tan Malaka mengajukan alternatif berupa sistem Soviet, sebuah model pemerintahan yang menekankan kekuasaan langsung rakyat melalui organisasi buruh dan partisipasi aktif dalam pengambilan keputusan. Konsep ini bukan semata sebagai teori revolusioner, melainkan sebagai panggilan untuk memberdayakan rakyat agar mampu merebut kembali kendali atas alat produksi dan, pada akhirnya, mewujudkan keadilan sosial yang sesungguhnya-sungguhnya.
 
-Di Indonesia, setelah merdeka, di masa kini, meskipun kita telah menganut sistem demokrasi, dinamika politik dan birokrasi masih sering kali dipengaruhi oleh kepentingan praktis dan elit yang mengabaikan aspirasi rakyat. Hal ini mengingatkan kita pada peringatan Tan Malaka mengenai retorika “suara rakyat” harus diimbangi dengan tindakan nyata yang menjamin setiap kebijakan benar-benar mewakili kepentingan masyarakat secara adil.
+Di Indonesia, setelah merdeka, di masa kini, meskipun kita telah menganut sistem demokrasi, dinamika politik dan birokrasi masih sering kali dipengaruhi oleh kepentingan praktis dan elit yang mengabaikan aspirasi rakyat.
 
-Rekap ini pada intinya aku mengajak untuk mengingat kembali agar kita semua dapat terus kritis mempertanyakan dan memperbaiki sistem yang ada, agar kedaulatan bersama tidak hanya menjadi slogan belaka, melainkan bisa terwujud dalam kehidupan sehari-hari. Dengan semangat kritis dan persatuan, kita semua diundang untuk membangun masa depan yang benar-benar merefleksikan aspirasi rakyat, demi menuju tatanan masyarakat yang adil dan sejahtera.
+Bagaimana mungkin para wakil rakyat di Parlemen yang seharusnya menyuarakan penderitaan rakyat yang lapar justru harus meniti jalan yang penuh kecurangan demi mencapai kursi di parlemen? Di mana letak keadilan, jika sejak awal proses pencalonan, mereka sudah terjerat dalam sistem yang mengharuskan pengeluaran biaya yang fantastis, seolah-olah jalan menuju kekuasaan adalah sebuah lelang terbuka bagi siapa saja yang mampu membayar harga tinggi?
+
+Kapan kaum "rakyat miskin" bisa naik ke parlemen?
+
+Berapa biaya sebenarnya yang harus mereka keluarkan untuk maju ke arena politik? Bagaimana mereka mampu melunasi hutang-hutang pinjaman kampanye, yang seharusnya menjadi beban moral, bukan transaksi ekonomi murni? Setelah berhasil menggapai kursi parlemen, mengapa yang mereka pamerkan hanyalah kemewahan mobil bermerk nan miliaran yang mencolok, sementara di luar sana rakyat terus bergelut dengan kelaparan dan kesengsaraan?
+
+Dimanakah empati yang seharusnya mengalir dalam setiap tindakan seorang wakil rakyat, jika yang tampak hanyalah kepentingan untuk memuaskan nafsu kantong semata? Bukankah seharusnya, sebagai wakil rakyat, mereka rela berkorban demi kepentingan bersama, bukan malah mengubah jabatan mulia itu menjadi ajang menumpuk harta dan kemewahan yang jauh dari realitas kehidupan rakyat?
+
+Pertanyaan-pertanyaan ini seharusnya menjadi cermin yang menyakitkan, mengungkap betapa dalam jurang pemisahan antara retorika yang muluk dan realita pahit di dunia politik. Semoga kritik ini mampu menggugah kesadaran kita semua untuk terus mempertanyakan dan menuntut perubahan, agar sistem demokrasi tidak lagi menjadi arena pertarungan kepentingan pribadi, melainkan ladang perjuangan untuk keadilan dan kesejahteraan bersama.
+
+Hal ini mengingatkan kita pada peringatan Tan Malaka mengenai retorika “suara rakyat” harus diimbangi dengan tindakan nyata yang menjamin setiap kebijakan benar-benar mewakili kepentingan masyarakat secara adil.
+
+Rekap ini pada intinya aku mengajak untuk mengingat kembali agar kita semua dapat terus kritis mempertanyakan dan memperbaiki sistem yang ada, agar kedaulatan bersama tidak hanya menjadi slogan "omon-omon" belaka, melainkan bisa terwujud dalam kehidupan sehari-hari. Dengan semangat kritis dan persatuan, kita semua diundang untuk membangun masa depan yang benar-benar merefleksikan aspirasi rakyat, demi menuju tatanan masyarakat yang adil dan sejahtera.
 
 Sebagai penulis dari tulisan ini, aku tidak bermaksud untuk mengajak atau memaksa para pembaca tulisanku ini untuk menjadi seorang Komunis. Aku di sini hanya ingin kita semua lebih kritis dan sadar akan kondisi sosial-politik di sekitar kita pada saat ini, sebagaimana yang telah diulas dalam segmen-segmen pembahasan sebelumnya.
 
 Jika secara sukarela ada yang tertarik untuk menyelami pemikiran kiri, itu adalah pilihan pribadi masing-masing.
 
-Aku tidak pernah mengklaim diri ini sebagai seorang komunis, yang kuprotes adalah kaum borjuis penindas yang membiarkan kita hanya sebagai alat dan tumbal demi memuaskan keserakahan mereka. Banyak hal mungkin agak berbeda antara pandanganku dengan dogma Komunisme, namun perbedaan itu tidak seberapa bila dibandingkan dengan kerakusan sistem dari para Kapitalis-kapitalis itu. Bagiku, Komunisme adalah simbol pemberontakan dan wujud kekesalanku terhadap hasil dari sistem yang ada saat ini. Jika kita ingin melawan, tentu kepalan tangan seorang saja tidak akan cukup. Kita membutuhkan kekuatan kolektif, dukungan dari mereka yang selama ini menjadi musuh alami sistem kapitalis, yakni, para kaum kiri.
+Aku kira, kebebasan berpikir pasca Orde Baru itu tidak akan pernah diberangus kembali, baik itu di Kampus maupun di khalayak Publik.
+
+Aku tidak pernah mengklaim diri ini sebagai seorang Komunis, yang kuprotes adalah kaum borjuis penindas yang membiarkan kita hanya sebagai alat dan tumbal demi memuaskan keserakahan mereka. Ada hal yang mungkin agak berbeda antara pandanganku dengan dogma Komunisme, namun perbedaan itu tidak seberapa bila dibandingkan dengan kerakusan sistem dari para Kapitalis-kapitalis itu. Bagiku, Komunisme adalah simbol pemberontakan dan wujud kekesalanku terhadap hasil dari sistem yang ada saat ini. Jika kita ingin melawan, tentu kepalan tangan seorang saja tidak akan cukup. Kita membutuhkan kekuatan kolektif, dukungan dari mereka yang selama ini menjadi musuh alami sistem kapitalis, yakni, para golongan kiri.
 
 Jikalau ditanya, "Kalau begitu, kamu seorang apa?"
 
@@ -728,7 +742,7 @@ Semoga semangat perlawanan dan keinginan untuk memperbaiki sistem yang telah dit
 
 Sekian untuk kali ini. Semoga catatan kali ini dapat bermanfaat dan mampu menginspirasi semangat kritis kita semua.
 
-Namun sebelum kuakhiri tulisan ini. Aku ingin mengajak kita semua untuk bergembira dan bernyanyi bersama-sama terlebih dahulu. Lagu yang akan kita putar sama-sama ini berjudul <b>Internasionale</b> karya Eugène Pottier dari Perancis. Tetapi, kita tidak akan menyanyikan versi orisinil bahasa Perancisnya. Namun, versi bahasa Indonesianya, yaitu hasil terjemahan dari Bapak Pendidikan kita semua, Ki Hajar Dewantara.
+Namun sebelum kuakhiri catatan ini. Aku ingin mengajak kita semua untuk bergembira dan bernyanyi bersama-sama terlebih dahulu. Lagu yang akan kita putar sama-sama ini berjudul <b>Internasionale</b> karya Eugène Pottier dari Perancis. Tetapi, kita tidak akan menyanyikan versi orisinil bahasa Perancisnya. Namun, versi bahasa Indonesianya, yaitu hasil terjemahan dari Bapak Pendidikan kita semua, Ki Hajar Dewantara.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FelSgZYRHq8?si=pttT5K8ysDVDAdat" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
