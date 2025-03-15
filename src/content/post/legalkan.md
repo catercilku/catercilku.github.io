@@ -1,8 +1,9 @@
 ---
 title: "Marijuana: Tanaman kaya manfaat yang dibenci BNN"
-description: "Mengapa ganja sangat dikriminalisasi, padahal dia hanya tanaman penuh manfaat."
-publishDate: "28 Oct 2024"
-updatedDate: "28 Oct 2024"
+description: "Ketika sebuah batang tanaman yang kaya manfaat mengguncang meja Aparat dan Badan Anti-narkotik."
+publishDate: "17 Jan 2025"
+updatedDate: "17 Jan 2025"
 tags: ["legalisasi", "medis", "marijuana"]
 draft: true
 ---
+
