@@ -23,7 +23,7 @@ Aku pernah merokok, lalu berhenti. Lalu merokok lagi. Lalu berhenti lagi. Lalu m
 
 Disetiap jeda tersebut bisa beberapa bulan, bahkan pernah setahun kalau diingat-ingat lagi.
 
-Di bulan puasa ini, saat tulisan ini aku buat, aku sedang dalam masa berhenti merokok lagi. Siklus yang entah kapan akan benar-benar usai. Dan di setiap fase itu, ada perbedaan yang kurasakan. Aku sendiri sebenarnya bukanlah seorang perokok berat yang bisa menghabiskan satu bungkus rokok perhari. Bisa dibilang aku bukanlah seorang perokok hardcore, kalau memang tidak mood untuk merokok, satu bungkus rokok bisa aku habiskan untuk satu bulan. Satu bungkus untuk 2-3 hari juga pernah kalau memang ingin sekali untuk merokok.
+Di bulan puasa ini, saat tulisan ini aku buat, aku sedang dalam masa berhenti merokok lagi. Siklus yang entah kapan akan benar-benar usai. Dan di setiap fase itu, ada perbedaan yang kurasakan. Aku sendiri sebenarnya bukanlah seorang perokok berat yang bisa menghabiskan satu bungkus rokok perhari alias bukanlah seorang perokok hardcore, kalau memang tidak mood untuk merokok, satu bungkus rokok bisa aku habiskan untuk satu bulan. Satu bungkus untuk 2-3 hari juga pernah kalau memang ingin sekali untuk merokok.
 
 Saat merokok, aku merasa lebih santai, lebih bisa ‘masuk’ ke tongkrongan, lebih diterima. Saat tidak, aku merasa lebih fit, lebih bebas… tapi juga lebih ‘terasing’, hahaha.
 
