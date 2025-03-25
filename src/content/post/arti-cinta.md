@@ -1,6 +1,6 @@
 ---
-title: "Arti Cinta Bagiku Adalah..."
-description: "Pertanyaan yang masih aku cari jawabannya hingga detik ini."
+title: "Arti Cinta Itu Apa Bang Messi?"
+description: "Pertanyaan aku tidak tahu jawabannya."
 publishDate: "17 Mar 2025"
 updatedDate: "17 Mar 2025"
 tags: ["cinta"]
