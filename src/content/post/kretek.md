@@ -261,7 +261,7 @@ Pertanyaannya sekarang, jika kita tahu bagaimana industri rokok bekerja, apakah 
 
 Aku pernah berpikir, apa sebenarnya yang membuat orang terus merokok? Apakah karena kenikmatan? Atau hanya ilusi dari sesuatu yang sejatinya menjerat?
 
-Saat melihat seseorang menyalakan rokok, sering kali aku melihat ekspresi yang sulit dijelaskan, bukan hanya sekadar menikmati, tapi seperti sedang mengukuhkan sesuatu. Mungkin kebebasan? Tapi anehnya, kebebasan macam apa yang datang dengan rasa cemas ketika persediaan menipis?
+Saat melihat seseorang menyalakan rokok, sering kali aku melihat ekspresi yang sulit dijelaskan, bukan hanya sekedar menikmati, tapi seperti sedang mengukuhkan sesuatu. Mungkin kebebasan? Tapi anehnya, kebebasan macam apa yang datang dengan rasa cemas ketika persediaan menipis?
 
 Nikotin itu menarik sebenarnya menurutku. Ia hadir seperti teman yang memberi kenyamanan, tapi di saat yang sama, menuntut kesetiaan. Aku pernah mendengar seseorang berkata, "Aku bisa berhenti kapan aja." Tapi entah kenapa, kalimat itu lebih sering terdengar seperti pembelaan daripada kenyataan. Bukankah kebebasan sejati berarti bisa memilih tanpa ada paksaan dari dalam diri ataupun luar?
 
@@ -273,11 +273,11 @@ Pada akhirnya, aku sendiri tidak ingin menghakimi, karena aku sendiri sering mew
 
 ## Epilog: Sebatang Terakhir (Atau Tidak?)
 
-Aku pernah berpikir, bagaimana jika aku memang benar-benar berhenti? Tidak hanya sekadar rehat sebentar, tapi benar-benar melepaskan semuanya, ritualnya, aromanya, bahkan momen-momen reflektif yang sering muncul di antara kepulan asap.
+Aku pernah berpikir, bagaimana jika aku memang benar-benar berhenti? Tidak hanya sekedar rehat sebentar, tapi benar-benar melepaskan semuanya, ritualnya, aromanya, bahkan momen-momen reflektif yang sering muncul di antara kepulan asap.
 
 Tapi di sisi lain, aku juga bertanya-tanya, apa aku benar-benar ingin berhenti, atau hanya sedang mencoba meyakinkan diri sendiri bahwa aku bisa? Karena sejatinya, perpisahan dengan sesuatu yang telah menjadi bagian dari keseharian bukanlah perkara mudah.
 
-Rokok, bagiku, bukan sekadar benda yang terbakar di ujung jari. Ia seperti dialog sunyi antara aku dan diriku sendiri. Kadang menjadi simbol kebebasan, kadang terasa seperti borgol yang menahanku di tempat yang sama yang aku sangat membenci hal itu.
+Rokok, bagiku, bukan sekedar benda yang terbakar di ujung jari. Ia seperti dialog sunyi antara aku dan diriku sendiri. Kadang menjadi simbol kebebasan, kadang terasa seperti borgol yang menahanku di tempat yang sama yang aku sangat membenci hal itu.
 
 Satu hal yang pasti, rokok selalu datang dengan pertanyaan apakah aku yang mengendalikannya, atau justru sebaliknya?
 
@@ -291,7 +291,7 @@ But deep inside, aku benci kamu, rokok.
 
 ## Penutup
 
-Rokok, pada akhirnya, bukan sekadar benda yang terbakar di antara jari. Ia bisa menjadi pelarian, ritual sosial, atau sekadar kebiasaan yang sulit dilepaskan. Bagi sebagian orang, ia adalah kenikmatan, bagi yang lain, ia adalah beban.
+Rokok, pada akhirnya, bukan sekedar benda yang terbakar di antara jari. Ia bisa menjadi pelarian, ritual sosial, atau sekedar kebiasaan yang sulit dilepaskan. Bagi sebagian orang, ia adalah kenikmatan, bagi yang lain, ia adalah beban.
 
 Aku menulis ini bukan untuk menghakimi, bukan pula untuk memberi vonis benar atau salah. Aku hanya mencoba memahami dari pengalaman pribadi, dari pengamatan, dan dari pertanyaan yang selalu muncul di kepalaku setiap kali asap itu mengepul di udara.
 
