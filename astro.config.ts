@@ -1,4 +1,5 @@
 import mdx from "@astrojs/mdx";
+import netlify from "@astrojs/netlify";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import { defineConfig } from "astro/config";
@@ -13,6 +14,7 @@ import { remarkReadingTime } from "./src/utils/remark-reading-time";
 
 // https://astro.build/config
 export default defineConfig({
+	adapter: netlify(),
 	image: {
 		domains: ["webmention.io"],
 	},
@@ -44,6 +46,7 @@ export default defineConfig({
 		},
 	},
 	// https://docs.astro.build/en/guides/prefetch/
+	output: "server",
 	prefetch: true,
 	// ! Please remember to replace the following site property with your own domain
 	site: "https://catercilku.github.io/",
@@ -54,7 +57,6 @@ export default defineConfig({
 		plugins: [rawFonts([".ttf", ".woff"])],
 	},
 });
-
 function rawFonts(ext: string[]) {
 	return {
 		name: "vite-plugin-raw-fonts",
